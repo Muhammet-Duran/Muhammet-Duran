@@ -16,7 +16,7 @@
 <a href="https://twitter.com/Muhamme62632950">
 <img  alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-<a href="mailto:m.duranim@gmail.com">
+<a href="mailto:mhmmtduran01@gmail.com">
 <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
