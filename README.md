@@ -28,12 +28,7 @@ I'm a Frontend Developer focused on building scalable, performant and user-frien
 
 ---
 
-### 💬 Social Media App (Optional ekleyebilirsin)
-- Tech: React Native, Redux
-- Features: Like, Comment, Optimistic UI
-- Repo: https://github.com/your-repo
 
----
 
 ## 🧰 Tech Stack
 
