@@ -15,8 +15,8 @@ I'm a Frontend Developer focused on building scalable, performant and user-frien
 ### 🛒 E-Commerce App
 - Tech: React, Redux Toolkit, Tailwind
 - Features: Authentication, Cart, Product Listing, Payment Simulation
-- Live: https://your-live-link.com
-- Repo: https://github.com/your-repo
+- Live: [https://your-live-link.com](https://product-list-md.vercel.app/)
+- Repo: https://github.com/Muhammet-Duran/product-list
 
 ---
 
@@ -24,7 +24,7 @@ I'm a Frontend Developer focused on building scalable, performant and user-frien
 - Tech: Next.js, Zustand, Chart.js
 - Features: Analytics Dashboard, Charts, Responsive Design
 - Live: https://fintech-dashboard-app.vercel.app
-- Repo: https://github.com/your-repo
+- Repo: https://github.com/Muhammet-Duran/fintech-dashboard-app
 
 ---
 
