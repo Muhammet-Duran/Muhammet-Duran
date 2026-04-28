@@ -15,7 +15,7 @@ I'm a Frontend Developer focused on building scalable, performant and user-frien
 ### 🛒 E-Commerce App
 - Tech: React, Redux Toolkit, Tailwind
 - Features: Authentication, Cart, Product Listing, Payment Simulation
-- Live: [https://your-live-link.com](https://product-list-md.vercel.app/)
+- Live: https://product-list-md.vercel.app/
 - Repo: https://github.com/Muhammet-Duran/product-list
 
 ---
